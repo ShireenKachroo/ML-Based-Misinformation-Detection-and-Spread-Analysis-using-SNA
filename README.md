@@ -134,13 +134,6 @@ This project bridges that gap by combining **ML-based detection** with **SNA-bas
    > Introduces interventions like edge-removal and influence-limiting strategies. Useful for designing SNA-based simulation strategies and understanding network-level diffusion.
 
 
-## Getting Started
 
-### Clone the Repository
-Open your terminal and run:
-
-```bash
-git clone https://github.com/your-username/Misinformation-Detection.git
-cd Misinformation-Detection
 
 
